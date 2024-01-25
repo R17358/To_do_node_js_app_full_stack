@@ -1,7 +1,7 @@
 import React from 'react'
 import { useContext } from 'react';
 import { Context } from '../main';
-import Loader from '../components/loader';
+import Loader from '../components/Loader';
 
 export const Profile = () => {
 
